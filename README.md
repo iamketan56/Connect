@@ -1,2 +1,2 @@
 # Connect
- Social Web Application Using NodeJS,Express,EJS (Just Started)
+ Social media Web Application Using NodeJS,Express,EJS (Just Started)
